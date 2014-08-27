@@ -1,0 +1,8 @@
+*.exe
+mprogram
+.directory
+*.o
+*.ali
+
+
+

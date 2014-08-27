@@ -25,7 +25,7 @@ you want to try it using qemu (you need a qemu image called disk.img
 including the program in order for it to work, check the MARTE OS 
 webpage tutorials if you need help with this).
 
-This is the version I made in 2009, the quemu test doesn't seem to work anymore, I'll have to look into it.
+This is the version I made in 2009, the qemu test doesn't seem to work anymore, I'll have to look into it.
 
 1- BASIC CONTROLS:
 

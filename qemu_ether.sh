@@ -1,0 +1,1 @@
+qemu -hda disk.img -net nic,macaddr=00:30:64:07:A2:60,model=rtl8139 -net socket,mcast=230.0.0.1:1234 -no-kqemu & qemu -hda disk.img -net nic,macaddr=00:30:64:06:B5:F2,model=rtl8139 -net socket,mcast=230.0.0.1:1234 -no-kqemu

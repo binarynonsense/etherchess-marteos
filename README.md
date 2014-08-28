@@ -8,6 +8,8 @@ simulate this setup using virtual machines, with qemu for example).
     
 License: GPL v2 (see COPYING file).
 
+Video: https://www.youtube.com/watch?v=l5S4Zq712CE
+
 /////////////////////////////////////////////////////
 
 0- INSTALLATION:
